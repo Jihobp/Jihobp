@@ -17,6 +17,7 @@ jobs:
         with:
           feed_list: "https://jihobp.github.io/blog/ko/rss.xml"
           max_post_count: 5
+          tag_post_pre_newline: true
           template: "- [$title]($url) · $date$newline"
           date_format: "yyyy-mm-dd"
           commit_message: "chore: update latest blog posts"
