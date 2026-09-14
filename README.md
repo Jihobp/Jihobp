@@ -44,7 +44,11 @@
 
 ## 📝 Latest Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [NVIDIA 무료 LLM을 VSCode 안에서 쓰기](https://jihobp.github.io/blog/ko/posts/2026-09-07-nvidia-nim-review/) · 2026-09-07
+- [AI한테 일을 던지려면, 던질 판부터 깔아야 해요 — Codex·옵시디언·앤드류 응까지](https://jihobp.github.io/blog/ko/posts/2026-09-03-ai-native-dev-setup/) · 2026-09-03
+- [AI로 디자인 만들 때 &#39;예쁘게 해줘&#39;가 망하는 이유 — 바이브코딩부터 토스 디자인 시스템까지](https://jihobp.github.io/blog/ko/posts/2026-09-01-uiux-article-summary/) · 2026-09-01
+- [벡터 DB란 무엇인가 — 비전공자 개발자가 이해한 만큼만](https://jihobp.github.io/blog/ko/posts/2026-08-18-vector-db-basics/) · 2026-08-18
+- [C# 배열과 List, 왜 .ToList&lpar;&rpar;가 필요할까](https://jihobp.github.io/blog/ko/posts/2026-04-14-csharp-array-to-list/) · 2026-04-14
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://jihobp.github.io/blog/ko/">more posts →</a></p>
